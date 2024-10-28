@@ -9,3 +9,7 @@ Para configurar la conexión a la base de datos y utilizar el inicializador de b
 2. Abre el archivo `appsettings.Development.json` y asegúrate de que la sección `ConnectionStrings` esté configurada correctamente:
 
 3. Iniciar API.
+
+Postman Collection
+
+[Booking.postman_collection.json](https://github.com/user-attachments/files/17547591/Booking.postman_collection.json)
